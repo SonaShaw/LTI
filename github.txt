@@ -1,0 +1,12 @@
+=================Git hub =========================
+
+
+1. working folder or drive
+2. create folder where you want to initialize the repository
+
+==========================================
+	git init
+	git add ./ git add <file name>
+	git commit
+	git log
+	git status
